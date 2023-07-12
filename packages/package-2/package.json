@@ -1,9 +1,9 @@
 {
   "name": "package-2",
-  "version": "0.0.1",
-  "description": "Now I’m the model of a modern major general / The venerated Virginian veteran whose men are all / Lining up, to put me up on a pedestal / Writin’ letters to relatives / Embellishin’ my elegance and eloquence / But the elephant is in the room / The truth is in ya face when ya hear the British cannons go / BOOM",
-  "keywords": [],
+  "version": "0.0.0",
+  "description": "> TODO: description",
   "author": "Pratik <pratikmazumdar@quantiply.tech~>",
+  "homepage": "https://github.com/LUCIF680/lerna#readme",
   "license": "ISC",
   "main": "lib/package-2.js",
   "directories": {
@@ -13,7 +13,14 @@
   "files": [
     "lib"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LUCIF680/lerna.git"
+  },
   "scripts": {
     "test": "node ./__tests__/package-2.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/LUCIF680/lerna/issues"
   }
 }
