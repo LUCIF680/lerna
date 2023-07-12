@@ -1,5 +1,5 @@
 {
-  "name": "root",
+  "name": "@quantiply/test-lerna-packages",
   "private": true,
   "workspaces": [
     "packages/*"
